@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+	<item android:id="@+id/menu_add" android:title="Add" android:icon="@drwable/ic_new" app:showAsAction="always"/>
+	<item android:id="@+id/menu_save" android:title="save" android:icon="@drwable/ic_save" app:showAsAction="always"/>
+	<item android:id="@+id/menu_remove" android:title="remove" android:icon="@drwable_/ic_remove" app:showAsAction="always"/>
+</menu>
